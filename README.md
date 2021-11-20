@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aeseir
-- 👀 I’m interested in web app development within a high performing devops structure
-- 🌱 I’m currently learning Net 5, Angular, Neo4J, Azure Cloud (going for architect), and agile delivery models 
-- 💞️ I’m looking to collaborate on ...very good question, but would love to add to the community
+- 🌱 I’m currently developing NET Framework, Angular, Azure Cloud (going for architect), and custom agile delivery models 
+- 💞️ I’m looking to collaborate on any solution built on NET framework
 - 📫 How to reach me aeseir@outlook.com
 
 <!---
