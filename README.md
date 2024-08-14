@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aeseir
-- 🌱 I’m currently developing NET Framework, Angular, Azure Cloud (going for architect), and custom agile delivery models 
-- 💞️ I’m looking to collaborate on any solution built on NET framework
+- 🌱 I’m currently developing NET Framework, Angular, Python, leveraging Azure Cloud 
+- 💞️ I’m looking to collaborate on anything interesting and fun
 - 📫 How to reach me aeseir@outlook.com
 
 <!---
